@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "3.0",
+  "version": "4.0",
   "name": "Full Dark Blue",
   "theme": {
     "images": {},
@@ -25,7 +25,7 @@
       "popup_border": "rgb(2, 10, 32)",
       "popup_highlight_text": "rgb(240, 240, 240)",
       "popup_highlight": "rgb(2, 10, 32)",
-      "sidebar_border": "rgba(87, 87, 85, 0.38)",
+      "sidebar_border": "rgba(23, 30, 53, 0.36)",
       "sidebar_highlight_text": "rgb(34, 105, 177)",
       "sidebar_text": "rgb(172, 172, 185)",
       "sidebar": "rgb(9, 14, 29)",
@@ -37,9 +37,10 @@
       "toolbar_field_border": "rgb(2, 10, 32)",
       "toolbar_field_highlight_text": "rgb(34, 105, 177)",
       "toolbar_field_highlight": "rgb(31, 40, 63)",
+      "toolbar_field_separator": "rgba(30, 59, 119, 0)",
       "toolbar_field_text_focus": "rgb(34, 105, 177)",
       "toolbar_top_separator": "rgb(0, 0, 0)",
-      "toolbar_vertical_separator": "rgb(0, 0, 0)"
+      "toolbar_vertical_separator": "rgba(15, 23, 43, 0.08)"
     }
   }
 }
